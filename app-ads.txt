@@ -1,3 +1,5 @@
+OWNERDOMAIN=npinteractive.com
+
 google.com, pub-5364521017959941, DIRECT, f08c47fec0942fa0
 adagio.io, 1522, RESELLER
 adagio.io, 1575, RESELLER
